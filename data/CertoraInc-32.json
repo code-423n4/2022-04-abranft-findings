@@ -1,0 +1,9 @@
+{
+  "contest": 113,
+  "handle": "CertoraInc",
+  "address": "0x009dA689fE16166448B0D6C0f5D2F82033A16B8A",
+  "risk": "3",
+  "title": "Steal user's nft if he tries to use `request_loan` with `skim = true`",
+  "issueId": 32,
+  "issueUrl": "https://github.com/code-423n4/2022-04-abranft-findings/issues/32"
+}
