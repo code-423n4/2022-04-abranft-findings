@@ -1,0 +1,9 @@
+{
+  "contest": 113,
+  "handle": "0x1f8b",
+  "address": "0x8DB32d6ECCe6b7a3DBEbFAEbE9B329022EC86aCF",
+  "risk": "3",
+  "title": "empty address in ecrecover was not checked in NFTPair",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2022-04-abranft-findings/issues/25"
+}
