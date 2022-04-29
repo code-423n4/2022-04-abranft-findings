@@ -1,0 +1,9 @@
+{
+  "contest": 113,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": " Reentrancy Attack in cook() can make user lose fund or attacker can take ownership of user NFT's during transaction",
+  "issueId": 53,
+  "issueUrl": "https://github.com/code-423n4/2022-04-abranft-findings/issues/53"
+}
