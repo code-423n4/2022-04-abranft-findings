@@ -1,9 +1,0 @@
-{
-  "contest": 113,
-  "handle": "Ruhum",
-  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
-  "risk": "3",
-  "title": "Borrower doesn't have to pay fees to the protocol when using the skim option",
-  "issueId": 34,
-  "issueUrl": "https://github.com/code-423n4/2022-04-abranft-findings/issues/34"
-}
