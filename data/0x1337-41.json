@@ -1,0 +1,9 @@
+{
+  "contest": 113,
+  "handle": "0x1337",
+  "address": "0x4C024e5B3AE9B56319ed7c2D0F73A8535DDFF47e",
+  "risk": "3",
+  "title": "No Check for Deflationary Tokens",
+  "issueId": 41,
+  "issueUrl": "https://github.com/code-423n4/2022-04-abranft-findings/issues/41"
+}
