@@ -1,0 +1,9 @@
+{
+  "contest": 113,
+  "handle": "catchup",
+  "address": "0xB159bEEb1DeA94440820F9A06A2f613974467e0E",
+  "risk": "2",
+  "title": "Missing check for success from oracle.get()",
+  "issueId": 57,
+  "issueUrl": "https://github.com/code-423n4/2022-04-abranft-findings/issues/57"
+}
