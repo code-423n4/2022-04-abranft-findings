@@ -1,0 +1,9 @@
+{
+  "contest": 113,
+  "handle": "catchup",
+  "address": "0xB159bEEb1DeA94440820F9A06A2f613974467e0E",
+  "risk": "3",
+  "title": "Lender can seize the collateral by decreasing the LTV",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2022-04-abranft-findings/issues/54"
+}
