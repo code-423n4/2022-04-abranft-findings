@@ -1,0 +1,9 @@
+{
+  "contest": 113,
+  "handle": "WatchPug",
+  "address": "0x192bdd30d272aabc2b1c3c719c518f0f2d10cc60",
+  "risk": "3",
+  "title": "[WP-H6] The validity of the oracle price is ignored, making it possible for the loan to be liquidated unfairly with an invalid or stale price",
+  "issueId": 92,
+  "issueUrl": "https://github.com/code-423n4/2022-04-abranft-findings/issues/92"
+}
