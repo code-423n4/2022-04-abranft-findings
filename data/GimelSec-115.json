@@ -1,0 +1,9 @@
+{
+  "contest": 113,
+  "handle": "GimelSec",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "3",
+  "title": "Reentrancy attack in `collateral.transferFrom` that borrowers can trick lenders to lend but the lenders will never get the collateral",
+  "issueId": 115,
+  "issueUrl": "https://github.com/code-423n4/2022-04-abranft-findings/issues/115"
+}
