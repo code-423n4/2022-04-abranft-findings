@@ -1,0 +1,9 @@
+{
+  "contest": 113,
+  "handle": "plotchy",
+  "address": "0x2a1e0000010d393cf93f89000000617a00d50000",
+  "risk": "3",
+  "title": "Lender can adjust ltvBPS and instantly sieze collateral",
+  "issueId": 151,
+  "issueUrl": "https://github.com/code-423n4/2022-04-abranft-findings/issues/151"
+}
