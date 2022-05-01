@@ -1,0 +1,9 @@
+{
+  "contest": 113,
+  "handle": "throttle",
+  "address": "0x210b0D0694ff95c99dD693DD89CDF2f88de6beC4",
+  "risk": "2",
+  "title": "NFT unrecoverable. Lender might not be able to handle NFT collateral if not implemented `onERC721Received()` function.",
+  "issueId": 84,
+  "issueUrl": "https://github.com/code-423n4/2022-04-abranft-findings/issues/84"
+}
