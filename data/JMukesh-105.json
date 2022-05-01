@@ -1,0 +1,9 @@
+{
+  "contest": 113,
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "3",
+  "title": "BoringBatchable.PermitToken() will not work if the token entered is weth",
+  "issueId": 105,
+  "issueUrl": "https://github.com/code-423n4/2022-04-abranft-findings/issues/105"
+}
