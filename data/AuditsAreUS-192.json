@@ -1,0 +1,9 @@
+{
+  "contest": 113,
+  "handle": "AuditsAreUS",
+  "address": "0x8f6e76F3059DcFAC435bBb7029294eB6ceEcab23",
+  "risk": "2",
+  "title": "`init()` Is Payable But `msg.value` Is Not Used",
+  "issueId": 192,
+  "issueUrl": "https://github.com/code-423n4/2022-04-abranft-findings/issues/192"
+}
