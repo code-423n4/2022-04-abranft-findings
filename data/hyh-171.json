@@ -1,0 +1,9 @@
+{
+  "contest": 113,
+  "handle": "hyh",
+  "address": "0x859e1Dfb430A7156fAEF11947F2FC2a3C34B733A",
+  "risk": "3",
+  "title": "Params.oracle can be changed to a fake one by front running NFTPairWithOracle's lend function",
+  "issueId": 171,
+  "issueUrl": "https://github.com/code-423n4/2022-04-abranft-findings/issues/171"
+}
