@@ -1,0 +1,9 @@
+{
+  "contest": 113,
+  "handle": "WatchPug",
+  "address": "0x192bdd30d272aabc2b1c3c719c518f0f2d10cc60",
+  "risk": "3",
+  "title": "[WP-H8] Special ERC721 compatible implementation may allow an attacker to `requestLoan` without transferring in the NFT collateral",
+  "issueId": 93,
+  "issueUrl": "https://github.com/code-423n4/2022-04-abranft-findings/issues/93"
+}
