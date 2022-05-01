@@ -1,0 +1,9 @@
+{
+  "contest": 113,
+  "handle": "ilan",
+  "address": "0xEEBd02ddc406754621ff674c19f048fdF95C6D2B",
+  "risk": "2",
+  "title": "Use of unsafe `ERC721.transferFrom` rather than `safeTransferFrom`",
+  "issueId": 109,
+  "issueUrl": "https://github.com/code-423n4/2022-04-abranft-findings/issues/109"
+}
