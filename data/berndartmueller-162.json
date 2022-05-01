@@ -1,0 +1,9 @@
+{
+  "contest": 113,
+  "handle": "berndartmueller",
+  "address": "0x6A897b32996D342535791a74B8a40E75DDf2486e",
+  "risk": "3",
+  "title": "Reducing loan valuation via `updateLoanParams()` after lending results in loss of funds for lender on repay",
+  "issueId": 162,
+  "issueUrl": "https://github.com/code-423n4/2022-04-abranft-findings/issues/162"
+}
