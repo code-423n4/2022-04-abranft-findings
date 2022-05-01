@@ -1,0 +1,9 @@
+{
+  "contest": 113,
+  "handle": "AuditsAreUS",
+  "address": "0x8f6e76F3059DcFAC435bBb7029294eB6ceEcab23",
+  "risk": "2",
+  "title": "Signature Verification Functions Do Not Check Address Is Not Zero",
+  "issueId": 194,
+  "issueUrl": "https://github.com/code-423n4/2022-04-abranft-findings/issues/194"
+}
