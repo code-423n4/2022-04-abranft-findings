@@ -1,0 +1,9 @@
+{
+  "contest": 113,
+  "handle": "WatchPug",
+  "address": "0x192bdd30d272aabc2b1c3c719c518f0f2d10cc60",
+  "risk": "3",
+  "title": "[WP-H4] Wrong check of `ltvBPS` in `updateLoanParams()` allows a malicious lender to can change `ltvBPS` to a lower value or even `0` to liquidate the borrower and get the collateral immediately with `removeCollateral()`",
+  "issueId": 89,
+  "issueUrl": "https://github.com/code-423n4/2022-04-abranft-findings/issues/89"
+}
