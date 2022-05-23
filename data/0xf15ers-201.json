@@ -1,0 +1,9 @@
+{
+  "contest": 113,
+  "handle": "0xf15ers",
+  "address": "0x1434b95234155DA830c20d02548aF22f14A38FbE",
+  "risk": "3",
+  "title": "The bool return value of variable success is not checked/handled in removeCollateral() of NFTPairWithOracle.sol",
+  "issueId": 201,
+  "issueUrl": "https://github.com/code-423n4/2022-04-abranft-findings/issues/201"
+}
