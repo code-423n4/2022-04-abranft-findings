@@ -1,3 +1,11 @@
+---
+sponsor: "Abracadabra Money"
+slug: "2022-04-abranft"
+date: "2022-07-18"
+title: "AbraNFT contest"
+findings: "https://github.com/code-423n4/2022-04-abranft-findings/issues"
+contest: 113
+---
 
 # Overview
 
